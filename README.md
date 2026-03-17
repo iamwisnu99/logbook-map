@@ -94,4 +94,4 @@ Untuk rincian lebih lanjut, silakan baca dokumen berikut:
 
 ---
 
-© 2025 PT PRIMADEV DIGITAL TECHNOLOGY. All Rights Reserved.
+© 2026 PT PRIMADEV DIGITAL TECHNOLOGY. All Rights Reserved.
