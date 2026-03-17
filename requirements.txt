@@ -1,0 +1,7 @@
+selenium
+pandas
+openpyxl
+webdriver-manager
+python-telegram-bot
+PyPDF2
+nest_asyncio

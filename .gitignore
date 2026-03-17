@@ -1,0 +1,6 @@
+/.venv
+/downloads_temp
+/downloads
+.env
+akun.xlsx
+app.py
