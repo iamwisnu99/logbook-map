@@ -61,7 +61,7 @@ BASE_LOGBOOK_PATH = r"D:\Documents\LOGBOOK MAP" # === Sesuaikan lokasi anda ===
 
 1. Jalankan program dengan perintah:
    ```bash
-   python app.py
+   python main.py
    ```
 2. Buka Bot Telegram Anda dan ketik `/start`.
 3. Klik tombol **"Start Program"**.
