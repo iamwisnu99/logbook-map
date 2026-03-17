@@ -1,4 +1,4 @@
-# Logbook Downloader - Automated PDF Scraper
+# Logbook MAP Downloader
 
 Program otomatisasi berbasis Python dan Selenium untuk mengunduh, memproses, dan merapikan file Logbook Bulanan secara otomatis melalui integrasi Bot Telegram.
 
@@ -51,10 +51,10 @@ Siapkan data akun dalam format Excel dengan kolom berikut:
 
 ### 3. Path Penyimpanan
 
-Buka file `app.py` dan sesuaikan variabel `BASE_LOGBOOK_PATH` pada baris 30:
+Buka file `main.py` dan sesuaikan variabel `BASE_LOGBOOK_PATH` pada baris 30:
 
 ```python
-BASE_LOGBOOK_PATH = r"D:\Documents\LOGBOOK MAP"
+BASE_LOGBOOK_PATH = r"D:\Documents\LOGBOOK MAP" # === Sesuaikan lokasi anda ===
 ```
 
 ## Cara Penggunaan
